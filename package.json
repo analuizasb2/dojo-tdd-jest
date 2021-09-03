@@ -1,0 +1,11 @@
+{
+  "name": "dojo-tdd-jest",
+  "version": "1.0.0",
+  "description": "Basic repository to practice TDD with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ana Luiza",
+  "license": "ISC"
+}
